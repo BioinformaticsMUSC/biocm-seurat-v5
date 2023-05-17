@@ -1,7 +1,6 @@
 # biocm-seurat-docker
 
-This is a Dockerfile and related files for the biocm-seurat docker image. The container is preloaded with R and many R packages used by the BioCM, including Seurat, dplyr, 
-ggplot2, presto, Libra, and more.
+This is a Dockerfile and related files for the biocm-seurat-v5 docker image. The container is preloaded with R and many R packages used by the BioCM, including Seurat v5, dplyr, ggplot2, presto, Libra, and more.
 
 ## Example usage
 
